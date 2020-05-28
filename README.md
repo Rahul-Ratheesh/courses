@@ -1,24 +1,24 @@
 # Year 1
 
-| Course                         | Course Work   |
-| -------------------------------|:-------------:|
-| Single Variable Calculus       |               | 
-| Classical Mechanics            |               | 
-| Introduction to CS             | cs50          |
-| Mathematics for CS             |               |
-| Electricity and Magnetism      |               | 
-| Programming with Python        | cs51          | 
+| Course                         | Course Work                    |
+| -------------------------------|:------------------------------:|
+| Single Variable Calculus       |                                | 
+| Classical Mechanics            |                                | 
+| Introduction to CS             | [cs50](../../../cs50)          |
+| Mathematics for CS             |                                | 
+| Electricity and Magnetism      |                                |  
+| Programming with Python        | [cs51](../../../cs51)          | 
 
 # Year 2
 
 | Course                         | Course Work   |
-| -------------------------------|:-------------:|
-| Multi Variable Calculus        |               | 
-| Programming with C++           | cs52          | 
-| Introduction to Algorithms     | cs53          |
-| Probabilistic Systems          |               | 
-| Computer Organization          | cs54          | 
-| Introduction to AI             |               | 
+| -------------------------------|:------------------------------:|
+| Multi Variable Calculus        |                                |   
+| Programming with C++           | [cs52](../../../cs52)          | 
+| Introduction to Algorithms     | cs53                           | 
+| Probabilistic Systems          |                                |  
+| Computer Organization          | cs54                           | 
+| Introduction to AI             |                                |   
 
 # Year 3
 
