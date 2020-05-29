@@ -36,7 +36,7 @@
 | Course                         | Course Work   |
 | -------------------------------|:-------------:|
 | Convex Optimization            |               | 
-| Basic Electronics              |               | 
+| Circuits and Electronics       |               | 
 | Deep Learning                  |               | 
 | Mathematics for Finance        |               | 
 | Computer Graphics              |               | 
