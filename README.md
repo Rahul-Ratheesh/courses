@@ -7,7 +7,7 @@
 | Introduction to CS             | [cs50](../../../cs50)          |
 | Mathematics for CS             | cs20                           | 
 | Electricity and Magnetism      | cs09                           |  
-| Programming with Python        | [cs51](../../../cs21)          | 
+| Programming with Python        | [cs21](../../../cs21)          | 
 
 # Year 2
 
