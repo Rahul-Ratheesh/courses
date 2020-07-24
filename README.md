@@ -14,7 +14,7 @@
 | Course                         | Course Work   |
 | -------------------------------|:------------------------------:|
 | Multi Variable Calculus        | cs12                           |   
-| [Programming Abstractions with C++](https://www.youtube.com/playlist?list=PLFE6E58F856038C69)  | [cs51](../../../cs51)          | 
+| [Programming Abstractions with C++](https://www.youtube.com/playlist?list=PLFE6E58F856038C69)  | [cs52](../../../cs52)          | 
 | [Introduction to Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)  | cs22                  | 
 | Probabilistic Systems          | cs13                           |  
 | [Computer Organization](https://www.youtube.com/playlist?list=PL9D558D49CA734A02)               | cs53                          | 
