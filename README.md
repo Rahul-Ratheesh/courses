@@ -7,7 +7,7 @@
 | [Programming Methodology](https://www.youtube.com/playlist?list=PL84A56BC7F4A1F852) | [cs51](../../../cs51) [video](https://www.youtube.com/playlist?list=PLCwhEUEY836bKjm_6aR29XU0ygJLSGVCu)          |
 | [Mathematics for CS](https://www.youtube.com/playlist?list=PLB7540DEDD482705B)                 | [cs20](../../../cs20)          | 
 | Electricity and Magnetism      | cs09                           |  
-| [Programming with Python](https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7)            | [cs21](../../../cs21)          | 
+| [Introduction to CS](https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7)            | [cs21](../../../cs21)          | 
 
 # Year 2
 
