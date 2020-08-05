@@ -17,7 +17,7 @@
 | [Programming Abstractions](https://www.youtube.com/playlist?list=PLFE6E58F856038C69)  | [cs52](../../../cs52)          | 
 | [Introduction to Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)  | cs22                  | 
 | [Probabilistic Systems](https://www.youtube.com/playlist?list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe)          | cs13                           |  
-| [Computer Organization](https://www.youtube.com/playlist?list=PL9D558D49CA734A02)               | cs53                          | 
+| [Computer Organization](https://www.youtube.com/playlist?list=PL9D558D49CA734A02)               | cs60                          | 
 | [AI: Principles and Techniques](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)  | cs80              |   
 
 # Year 3
@@ -25,7 +25,7 @@
 | Course                         | Course Work   |
 | -------------------------------|:-------------:|
 | Differential Equations         | cs14          | 
-| System Programming             | cs60          | 
+| System Programming             | cs61          | 
 | Machine Learning               | cs81          | 
 | Linear Algebra                 | cs15          | 
 | Computer Architecture          | cs40          | 
@@ -39,7 +39,7 @@
 | Convex Optimization            | cs16          | 
 | Computer Graphics              | cs70          | 
 | Introduction to Robotics       | cs83          | 
-| Compiler Design                | cs61          | 
+| Compiler Design                | cs62          | 
 | Reinforcement Learning         | cs84          | 
 
 
