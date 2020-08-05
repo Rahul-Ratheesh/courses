@@ -3,7 +3,7 @@
 | Course                         | Course Work                    |
 | -------------------------------|:------------------------------:|
 | [Single Variable Calculus](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1)       | cs11                           | 
-| [Classical Mechanics] (https://www.youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e)            | cs08                           | 
+| [Classical Mechanics](https://www.youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e)            | cs08                           | 
 | [Programming Methodology](https://www.youtube.com/playlist?list=PL84A56BC7F4A1F852) | [cs51](../../../cs51) [video](https://www.youtube.com/playlist?list=PLCwhEUEY836bKjm_6aR29XU0ygJLSGVCu)          |
 | [Mathematics for CS](https://www.youtube.com/playlist?list=PLB7540DEDD482705B)                 | [cs20](../../../cs20)          | 
 | [Electricity and Magnetism](https://www.youtube.com/playlist?list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)     | cs09                           |  
