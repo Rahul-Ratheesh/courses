@@ -1,4 +1,3 @@
-Focus on Computer Science, Maths and AI.
 
 # Year 1
 
