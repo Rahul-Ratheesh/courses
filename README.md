@@ -16,7 +16,7 @@
 | -------------------------------|:------------------------------:|
 | [Multi Variable Calculus](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)        | cs12                           |
 | [Computer Organization](https://www.youtube.com/playlist?list=PL9D558D49CA734A02)               | cs53                          | 
-| [Introduction to Data Science](https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7)            | [cs21](../../../cs21)          | 
+| [Computational Models](https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7)            | [cs21](../../../cs21)          | 
 | [Probabilistic Systems](https://www.youtube.com/playlist?list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe)          | cs13                           |  
 | System Programming             | cs60          |
 | [AI: Principles and Techniques](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)  | cs80              |   
