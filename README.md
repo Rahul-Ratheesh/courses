@@ -16,10 +16,10 @@
 | -------------------------------|:------------------------------:|
 | [Multi Variable Calculus](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)        | cs12                           |
 | [Computer Organization](https://www.youtube.com/playlist?list=PL9D558D49CA734A02)               | cs53                          | 
-| [Computational Models](https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7)            | [cs21](../../../cs21)          | 
+| [Computational Models](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)            | [cs21](../../../cs21)          | 
 | [Probabilistic Systems](https://www.youtube.com/playlist?list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe)          | cs13                           |  
 | System Programming             | cs60          |
-| [AI: Principles and Techniques](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)  | cs80              |   
+| [Introduction to Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)  | cs22                  | 
 
 # Year 3
 
@@ -27,7 +27,7 @@
 | -------------------------------|:-------------:|
 | Differential Equations         | cs14          |
 | Operating Systems              | cs61          |
-| [Introduction to Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)  | cs22                  | 
+| [AI: Principles and Techniques](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)  | cs80              |
 | Linear Algebra                 | cs15          | 
 | Computer Networks              | cs62
 | Machine Learning               | cs81          | 
