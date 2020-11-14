@@ -26,22 +26,20 @@
 | Course                         | Course Work   |
 | -------------------------------|:-------------:|
 | Differential Equations         | cs14          |
-| Operating Systems              | cs61          |
+| Computer Vision                | cs70          |
 | [AI: Principles and Techniques](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)  | cs80              |
 | Linear Algebra                 | cs15          | 
-| Computer Networks              | cs62
+| Computer Graphics              | cs71          | 
 | Machine Learning               | cs81          | 
 
 # Year 4
 
-| Course                         | Course Work   |
-| -------------------------------|:-------------:|
-| Circuits and Electronics       | cs40          | 
-| Convex Optimization            | cs16          | 
-| Computer Graphics              | cs70          | 
-| Introduction to Robotics       | cs82          | 
-| Deep Learning                  | cs83          | 
-| Reinforcement Learning         | cs84          |
+| Course                             | Course Work   |
+| -----------------------------------|:-------------:|
+| Neural Networks for Computer Vision| cs72         | 
+| Animation and Simulation           | cs73          | 
+| Deep Learning                      | cs83          | 
+| Reinforcement Learning             | cs84          |
 
 
 
