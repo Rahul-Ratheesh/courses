@@ -26,17 +26,21 @@
 | Course                         | Course Work   |
 | -------------------------------|:-------------:|
 | Differential Equations         | cs14          |
-| Computer Graphics              | cs70          |
-| [AI: Principles and Techniques](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)  | cs80              |
 | Linear Algebra                 | cs15          | 
-| Machine Learning               | cs81          | 
+| Introduction to Computer Vision| cs70          |
+| Computer Graphics              | cs71          |
+| Introduction to Robotics       | cs72          |
+| [AI: Principles and Techniques](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)  | cs80              |
+
+
 
 # Year 4
 
 | Course                             | Course Work   |
 | -----------------------------------|:-------------:|
+| Mathematics for Graphics, Vision and Robotics|           | 
 | Neural Networks for Computer Vision|           | 
-| Introduction to Robotics           |           | 
+| Machine Learning               | cs81          | 
 | Deep Learning                      |           | 
 | Reinforcement Learning             |           |
 
